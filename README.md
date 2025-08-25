@@ -21,6 +21,11 @@ Workshops are designed for live online format with heavy emphasis on practical e
 
 Workshops can be tuned to the needs of the customer to match your tech stack - Java, Avro and Spring Boot are used because they are the most popular technologies, but the content can be adapted if that's requested.
 
+### Languages
+
+- English
+- Polish
+
 ## Contact
 
 If you'd like to learn more - contact [Jan Siekierski](https://www.linkedin.com/in/jan-siekierski/) on LinkedIn
