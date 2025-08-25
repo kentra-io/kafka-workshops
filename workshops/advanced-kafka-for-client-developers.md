@@ -1,4 +1,4 @@
-# Advanced Apache Kafka for Developers of client applications
+# Advanced Apache Kafka for Developers of client applications (Java)
 ### 2 day workshop
 
 ## About this workshop

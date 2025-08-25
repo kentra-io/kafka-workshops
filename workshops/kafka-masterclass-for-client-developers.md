@@ -1,4 +1,4 @@
-# Kafka Masterclass for Developers of client applications
+# Kafka Masterclass for Developers of client applications (Java)
 ### 4 day workshop
 
 ## Why take this workshop
