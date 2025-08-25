@@ -104,6 +104,7 @@ Previous experience with Kafka is not necessary - we'll start from the foundatio
 
 ## Data integration with Kafka
 ### Kafka Connect
+#### Single Message Transforms
 ### CDC & Debezium
 #### Transactional Outbox pattern
 ### Can I query my Kafka topic?
